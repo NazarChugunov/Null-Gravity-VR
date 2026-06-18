@@ -1,0 +1,1 @@
+C:\Users\agnes\Documents\Unity Projects\GravityProtocolF\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\6x576p38\obj\arm64-v8a

@@ -1,0 +1,28 @@
+{
+    "asset": "004c533767cd9074e9bc87c2c2a93bfe",
+    "fileName": "019ed545-ee75-7634-9016-a17a34c65837.png",
+    "prompt": "A simple sci-fi handheld repair tool, futuristic multi-tool welder, clean minimalist design, low detail, smooth sturdy chunky shapes, white and grey plastic body with subtle cyan accent strip, single object, full side view, centered, plain solid light grey background, product shot, soft even studio lighting, no text",
+    "negativePrompt": "",
+    "model": "gpt-image-1-5",
+    "modelName": "GPT Image 1.5",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

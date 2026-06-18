@@ -1,0 +1,28 @@
+{
+    "asset": "dd1badcabcfa9f24b90d850686e16192",
+    "fileName": "019ed634-c6a2-7f33-b453-6470d3d497fb.png",
+    "prompt": "A simple sci-fi hostile combat drone, small floating security robot, clean minimalist low-detail design, dark grey metal body with a single glowing red eye sensor and small thrusters, single object, full side view, centered, plain solid light grey background, product shot, soft even studio lighting, no text",
+    "negativePrompt": "",
+    "model": "gpt-image-1-5",
+    "modelName": "GPT Image 1.5",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

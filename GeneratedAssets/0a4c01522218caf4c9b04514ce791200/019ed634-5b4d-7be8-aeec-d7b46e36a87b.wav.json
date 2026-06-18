@@ -1,0 +1,15 @@
+{
+    "asset": "0a4c01522218caf4c9b04514ce791200",
+    "fileName": "019ed634-5b4d-7be8-aeec-d7b46e36a87b.wav",
+    "prompt": "Triumphant sci-fi victory jingle, uplifting synth fanfare, mission complete success sound",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 4.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

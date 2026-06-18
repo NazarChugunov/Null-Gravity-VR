@@ -1,0 +1,15 @@
+{
+    "asset": "dbdd75aae82a91442993efa4df1d2a44",
+    "fileName": "019ed633-b0bc-7310-9bb7-903904bb7938.wav",
+    "prompt": "Sci-fi welding repair tool, continuous energy welding hum with electric sparks, seamless loop",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 3.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

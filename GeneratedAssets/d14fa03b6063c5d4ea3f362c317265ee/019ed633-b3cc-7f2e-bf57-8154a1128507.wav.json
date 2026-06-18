@@ -1,0 +1,15 @@
+{
+    "asset": "d14fa03b6063c5d4ea3f362c317265ee",
+    "fileName": "019ed633-b3cc-7f2e-bf57-8154a1128507.wav",
+    "prompt": "Sci-fi plasma blaster shot, energy pulse fire, sharp futuristic zap, single shot",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 2.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

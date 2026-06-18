@@ -1,0 +1,15 @@
+{
+    "asset": "2f72a9050d2606d4cb5cf58e146cbf01",
+    "fileName": "019ed654-d511-7241-9248-2292d192ffa5.wav",
+    "prompt": "Sci-fi jetpack thruster, continuous rocket booster burn, steady whooshing jet propulsion, seamless loop",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 4.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

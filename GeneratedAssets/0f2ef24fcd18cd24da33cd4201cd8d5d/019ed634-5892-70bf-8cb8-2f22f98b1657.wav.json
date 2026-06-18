@@ -1,0 +1,15 @@
+{
+    "asset": "0f2ef24fcd18cd24da33cd4201cd8d5d",
+    "fileName": "019ed634-5892-70bf-8cb8-2f22f98b1657.wav",
+    "prompt": "Somber sci-fi game over sound, descending dark synth, mission failed defeat sting",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 4.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

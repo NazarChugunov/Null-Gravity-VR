@@ -1,0 +1,5 @@
+C:/Users/agnes/Documents/Unity Projects/GravityProtocolF/.utmp/RelWithDebInfo/6x576p38/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/agnes/Documents/Unity Projects/GravityProtocolF/.utmp/RelWithDebInfo/6x576p38/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/agnes/Documents/Unity Projects/GravityProtocolF/.utmp/RelWithDebInfo/6x576p38/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/agnes/Documents/Unity Projects/GravityProtocolF/.utmp/RelWithDebInfo/6x576p38/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/agnes/Documents/Unity Projects/GravityProtocolF/.utmp/RelWithDebInfo/6x576p38/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

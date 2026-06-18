@@ -1,0 +1,23 @@
+{
+    "asset": "c306b329c675c0b459bf7246af90bd7d",
+    "fileName": "019ed63a-7e7d-722f-a6aa-6878e64d0e1f.glb",
+    "prompt": "Small sci-fi hostile combat drone, floating security robot, dark grey metal body with a single glowing red eye sensor and weapon barrels, clean low-detail design",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "dd1badcabcfa9f24b90d850686e16192",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

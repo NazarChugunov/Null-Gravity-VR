@@ -1,0 +1,23 @@
+{
+    "asset": "d94b510c5e3e91f4eb8097658fe72163",
+    "fileName": "019ed548-962e-798f-984a-c35b06dfbeb5.glb",
+    "prompt": "Simple sci-fi handheld repair tool, futuristic multi-tool welder, clean minimalist low-detail design, white and grey body with cyan accent",
+    "negativePrompt": "",
+    "model": "model3d-tripo-p1",
+    "modelName": "Tripo P1",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "promptImageReferenceGuid": "004c533767cd9074e9bc87c2c2a93bfe",
+    "modelReferenceGuid": "",
+    "multiviewFrontGuid": "",
+    "multiviewBackGuid": "",
+    "multiviewLeftGuid": "",
+    "multiviewRightGuid": "",
+    "multiviewTopGuid": "",
+    "multiviewBottomGuid": "",
+    "multiviewLeftFrontGuid": "",
+    "multiviewRightFrontGuid": "",
+    "faceLimit": -1
+}

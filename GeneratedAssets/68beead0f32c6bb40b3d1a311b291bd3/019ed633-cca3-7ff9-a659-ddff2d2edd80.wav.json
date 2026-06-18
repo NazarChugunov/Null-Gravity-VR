@@ -1,0 +1,15 @@
+{
+    "asset": "68beead0f32c6bb40b3d1a311b291bd3",
+    "fileName": "019ed633-cca3-7ff9-a659-ddff2d2edd80.wav",
+    "prompt": "Small robotic drone explosion, electrical burst with metallic debris, sci-fi destruction",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 2.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}
